@@ -1,0 +1,12 @@
+{
+  "actors": {
+    "id": "int",
+    "first_name": "string",
+    "last_name": "string",
+    "gender": "string",
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
